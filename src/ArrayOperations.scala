@@ -7,6 +7,6 @@ object ArrayOperations
   }
   def test(): Unit =
   {
-    println{"Hi There"}
+    println("Hi There")
   }
 }
